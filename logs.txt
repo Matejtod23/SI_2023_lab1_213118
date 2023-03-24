@@ -1,0 +1,16 @@
+Author: Matej <matex@Matej>
+Date:   Fri Mar 24 17:21:21 2023 +0100
+
+    Fix wrong loop for reading
+
+commit ada0ea3589d473ae9da18e2addf0148a5af25ba1
+Author: Matej <matex@Matej>
+Date:   Fri Mar 24 17:12:57 2023 +0100
+
+    Add java class
+
+commit 8cf213d72aa2661e06847de0bd9028c084b20af0
+Author: Matej <matex@Matej>
+Date:   Fri Mar 24 17:10:31 2023 +0100
+
+    initial commit
